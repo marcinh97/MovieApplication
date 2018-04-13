@@ -1,0 +1,35 @@
+<resources>
+    <!-- Movie title naming convention: lowcaseenglishtitlewithoutspaces_title
+         Movie description naming convention: lowcaseenglishtitlewithoutspaces_description -->
+    <string name="app_name">Movie Base</string>
+    <string name="delete">DELETE</string>
+    <string name="bladerunner_title">Blade Runner 2049</string>
+    <string name="bladerunner_description">Oficer policji Los Angeles trafia na ukrywaną przez
+        lata informację, która może pogrążyć resztki społeczeństwa w chaosie.</string>
+    <string name="homealone_title">Kevin sam w domu</string>
+    <string name="homealone_description">Przez świąteczny pośpiech ośmioletni Kevin zostaje sam w
+        domu na Boże Narodzenie. Kultowa komedia dla całej rodziny.</string>
+    <string name="inception_title">Incepcja</string>
+    <string name="inception_description">Czasy, gdy technologia pozwala na wchodzenie w świat snów.
+        Złodziej Cobb ma za zadanie wszczepić myśl do śpiącego umysłu.Trzymający w napięciu thriller.</string>
+    <string name="interstellar_title">Interstellar</string>
+    <string name="interstellar_description">Byt ludzkości na Ziemi dobiega końca wskutek zmian
+        klimatycznych. Grupa naukowców odkrywa tunel czasoprzestrzenny.</string>
+    <string name="florencefosterjenkins_title">Boska Florence</string>
+    <string name="florencefosterjenkins_description">Mimo fatalnego głosu Florence Foster Jenkins
+        marzy o zostaniu śpiewaczką operową. Film oparty na prawdziwej historii.</string>
+    <string name="wolfofwallstreet_title">Wilk z Wall Street</string>
+    <string name="wolfofwallstreet_description">Historia Jordana Belforta, brokera, którego
+        błyskawiczna droga na szczyt i rozrzutny styl życia wzbudziły zainteresowanie FBI.</string>
+    <string name="drama">Dramat</string>
+    <string name="comedy">Komedia</string>
+    <string name="thriller">Thriller</string>
+    <string name="horror">Horror</string>
+    <string name="sci_fi">Science fiction</string>
+    <string name="musical">Musical</string>
+    <string name="screenshots">Sceny</string>
+    <string name="actors">Aktorzy</string>
+    <string name="poster_description">Movie poster</string>
+    <string name="actor_image_description">Actor\'s image</string>
+
+</resources>
