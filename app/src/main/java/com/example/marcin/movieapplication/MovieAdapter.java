@@ -15,17 +15,15 @@ import com.example.marcin.movieapplication.movie.MovieItem;
 import java.util.List;
 
 public class MovieAdapter extends RecyclerView.Adapter<MovieAdapter.ViewHolder> {
-
-    private Context context;
-    private List<MovieItem> movies;
-    private MovieItem movieItem;
-    private RecyclerView recyclerView;
-
     private ImageView movieImage;
     private TextView movieName;
     private TextView movieDescription;
     private TextView categoryName;
 
+    private Context context;
+    private List<MovieItem> movies;
+    private MovieItem movieItem;
+    private RecyclerView recyclerView;
 
     MovieAdapter(Context context, List<MovieItem> movies, RecyclerView recyclerView) {
         this.context = context;

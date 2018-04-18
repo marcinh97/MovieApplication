@@ -17,8 +17,8 @@ import java.util.List;
 
 
 public class ActorsListFragment extends Fragment {
-    private View view;
     private MoviesDatabase database;
+    private View view;
 
     @Nullable
     @Override

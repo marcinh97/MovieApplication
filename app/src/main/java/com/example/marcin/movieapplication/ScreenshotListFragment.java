@@ -24,7 +24,6 @@ import com.example.marcin.movieapplication.converters.MovieToImageConverter;
 import java.util.ArrayList;
 import java.util.List;
 
-
 public class ScreenshotListFragment extends Fragment {
     private static final int NUMBER_OF_SCREENSHOTS = 4;
     private View view;
